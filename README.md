@@ -1,12 +1,26 @@
-# React + Vite
+💬 Real-Time Chat Application using Zegocloud
+A fully functional real-time chat application built with React, Tailwind CSS, and Zegocloud SDK, enabling smooth and scalable messaging between users.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+🔐 Secure user authentication (JWT or Firebase-based)
 
-Currently, two official plugins are available:
+💬 Real-time 1-on-1 and group messaging
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👀 Typing indicators and presence detection
 
-## Expanding the ESLint configuration
+📱 Mobile-responsive and clean UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Powered by Zegocloud for real-time messaging and communication
+
+🌐 Easy integration and scalable backend
+
+🛠 Tech Stack
+Frontend: React, Tailwind CSS
+
+Backend: Node.js / Firebase / Express (depending on your stack)
+
+Real-Time Messaging: Zegocloud
+
+Authentication: JWT or Firebase Auth
+
+Database: MongoDB / Firestore
